@@ -8,5 +8,4 @@ Backs up onto a small local 0.5B LLM if it goes offline
 
 Install with  - 
 
-
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/Lythieus/Lyth-AI-Assistant/main/lyth-ai-assistant%2003.sh)"
